@@ -1,0 +1,31 @@
+asadbek,2023-05-13 10:48:24.482856, tashrif buyurdi
+nodirbek,2023-05-13 10:49:26.956237, tashrif buyurdi
+nodirbek,2023-05-13 10:49:33.347313, tashrif buyurdi
+nodirbek,2023-05-13 10:49:38.093136,out
+nodirbek,2023-05-13 10:49:43.143779, tashrif buyurdi
+Oyatillo,2023-05-13 10:51:05.665357, tashrif buyurdi
+Oyatillo,2023-05-13 10:58:15.636778,out
+asadbek,2023-05-13 10:58:25.210001,out
+Oyatillo,2023-05-13 11:51:37.066865, tashrif buyurdi
+asadbek,2023-05-13 11:51:43.755480, tashrif buyurdi
+asadbek,2023-05-13 11:54:29.629710, tashrif buyurdi
+asadbek,2023-	05-13 12:11:37.621666, tashrif buyurdi
+Oyatillo,2023-05-13 12:11:55.484985,out
+Oyatillo,2023-05-13 12:12:00.742768,out
+asadbek,2023-05-13 12:12:06.683950,out
+Oyatillo,2023-05-13 12:24:40.570322, tashrif buyurdi
+asadbek,2023-05-13 12:30:07.221215, tashrif buyurdi
+Akmaljon,2023-05-13 12:30:53.576236, tashrif buyurdi
+Akmaljon,2023-05-13 12:31:11.693298, tashrif buyurdi
+asadbek,2023-05-13 21:04:55.788354, tashrif buyurdi
+asadbek,2023-05-13 21:05:40.735481, tashrif buyurdi
+Oyatillo,2023-05-14 21:31:34.483190, tashrif buyurdi
+Oyatillo,2023-05-14 21:31:40.747716, tashrif buyurdi
+Oyatillo,2023-05-14 21:31:48.863752, tashrif buyurdi
+asadbek,2023-05-14 21:31:59.971543, tashrif buyurdi
+Manzuraxon,2023-05-14 21:32:36.141517, tashrif buyurdi
+Durdona,2023-05-14 21:34:17.887217, tashrif buyurdi
+Durdona,2023-05-16 11:53:48.231093, tashrif buyurdi
+Durdona,2023-05-16 11:53:53.614270, tashrif buyurdi
+Durdona,2023-05-16 11:53:57.921234, tashrif buyurdi
+Durdona,2023-05-16 11:54:07.033577, tashrif buyurdi
